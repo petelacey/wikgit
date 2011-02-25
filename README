@@ -1,0 +1,22 @@
+Wikgit:  A Git-backed wiki
+
+Goal: All functionality is available through Git as well as a browser.
+
+Minimal Feature Set
+
+* Spaces
+* Versioning
+* Directory support
+* Users / Groups
+* Wiki-based, space-based, page-based authz
+* Automatic link rewriting
+* Auto link generation
+* orgmode support
+
+Interacting with Git
+
+* Installer can pick a git repo
+  * New, installed with wikgit
+  * New, already installed on a server
+  ** New, Github
+  ** Existing, installed as a directory
