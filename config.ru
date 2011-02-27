@@ -2,5 +2,5 @@ require 'bundler'
 
 Bundler.require
 
-require './wikgit'
-run Wikgit
+require_relative 'wikgit'
+run WikgitApp
